@@ -1,2 +1,5 @@
 Nueva linea 1txt
 Nueva linea añadida
+Segunda linea en 1txt
+Tercera linea en 1txt
+
