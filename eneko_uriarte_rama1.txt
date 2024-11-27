@@ -1,1 +1,3 @@
 Nueva linea 1txt
+Segunda linea en 1txt
+Tercera linea en 1txt
